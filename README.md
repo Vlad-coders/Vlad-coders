@@ -81,7 +81,7 @@
 <div align="center">
 
 [![MacOS](https://img.shields.io/badge/MacOS-20232A?style=for-the-badge&logo=apple)](https://github.com/Vlad-coders)
-[![Webstorm](https://img.shields.io/badge/webstorm-20232A?style=for-the-badge&logo=webstorm)](https://github.com/Vlad-coders)
+[![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/Vlad-coders)
 [![Chrome](https://img.shields.io/badge/chrome-20232A?style=for-the-badge&logo=googlechrome)](https://github.com/Vlad-coders)
 [![Iterm2](https://img.shields.io/badge/iterm2-20232A?style=for-the-badge&logo=iterm2)](https://github.com/Vlad-coders)
 
