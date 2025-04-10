@@ -91,21 +91,9 @@
 
 <div align="center">
 
-[![Vlad-coders's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Vlad-coders&theme=radical&langs_count=20&layout=compact)](https://github.com/Vlad-coders)
+<!-- [![Vlad-coders's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Vlad-coders&theme=radical&langs_count=20&layout=compact)](https://github.com/Vlad-coders) -->
 
-<hr>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vlad-coders&theme=radical&column=3&margin-w=15&margin-h=15)](https://github.com/Vlad-coders)
-
-<hr>
-
-[![Vlad-coders's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Vlad-coders&theme=radical)](https://github.com/Vlad-coders)
-
-<hr>
-
-[![Vlad-coders's github stats](https://github-readme-stats.vercel.app/api/?username=Vlad-coders&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/Vlad-coders)
-
-<hr>
+<!-- ` -->
 
 &nbsp;
 &nbsp;
