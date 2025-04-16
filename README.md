@@ -23,7 +23,7 @@
 <hr>
 
 <p align="center">
-  <a target="_blank" href="https://Vlad-coders.vercel.app"><img
+  <a target="_blank" href="https://coders-portfolio.vercel.app/"><img
     src="https://img.shields.io/badge/check%20out%20my%20website-20232A?style=for-the-badge&logo=vercel" width="350px"/></a>
 </p>
 
